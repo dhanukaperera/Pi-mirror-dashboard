@@ -1,0 +1,25 @@
+.weather{
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    color: #fff;
+    width: 250px;
+    height: 250px;
+   /*  background-color: red; */
+    margin-left: 1160px;
+    margin-top:-360px;
+ }
+
+.wi{
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+.temp{
+    font-size: 50px;
+}
+
+.city{
+    font-size: 20px;
+}

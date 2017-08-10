@@ -1,0 +1,13 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    font-size: 20px;
+}
+
+.todo{
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    color: #fff;
+    border:10px;
+}
