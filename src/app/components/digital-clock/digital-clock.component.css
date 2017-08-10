@@ -1,0 +1,12 @@
+.clock{
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    color: #fff;
+}
+
+.time{
+    font-size: 60px;
+}
+
+.date{
+    font-size: 20px;
+}
