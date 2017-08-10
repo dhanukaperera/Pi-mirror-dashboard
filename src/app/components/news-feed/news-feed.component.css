@@ -1,0 +1,14 @@
+.news-feed{
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    color: #fff;
+    margin-top: 250px;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+}
+
+small ,em{
+    font-size: 16px;
+}
